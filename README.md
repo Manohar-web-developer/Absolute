@@ -1,0 +1,2 @@
+# Absolute
+Absolute lerning
